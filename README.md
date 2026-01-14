@@ -1,1 +1,1 @@
-![NilOnly's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![NilOnly's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilOnly246&show_icons=true&theme=radical)
